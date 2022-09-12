@@ -1,0 +1,10 @@
+{
+  "name": "@mxplay/video-player",
+  "version": "3.0.8",
+  "description": "React component for video player",
+  "license": "ISC",
+  "main": "dist/index.js",
+  "dependencies": {
+    "@mxplay/player": "3.0.8"
+  }
+}

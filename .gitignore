@@ -1,0 +1,9 @@
+node_modules
+.DS_Store
+.vscode
+/public/**/*
+yarn-error.log
+npm_build/dist/
+npm_build/public/
+npm_build/src/
+build

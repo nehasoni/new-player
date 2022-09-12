@@ -1,0 +1,6 @@
+require("./lib/plugins/ads")
+require("./lib/plugins/end_image")
+require("./lib/plugins/end_screen")
+require("./lib/plugins/cue_points")
+require("./lib/plugins/user_polls")
+require("./lib/plugins/detect_quality_change")
